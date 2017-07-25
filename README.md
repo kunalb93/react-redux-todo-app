@@ -1,7 +1,7 @@
 This project helps you develop a todo-app using react-redux.
-
+---------------------------------
 This project also covers the basics of client-side routing using react-router.
-
+---------------------------------
 Below you will find steps to get all the required packages for react-redux with basic setup and necessary commands to run the project.
 -----------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
